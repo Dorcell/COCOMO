@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Учебное\Программная инженерия\лабы\COCOMO\COCOMO\bin\Release\COCOMO.exe.config
+C:\Users\Admin\Desktop\Учебное\Программная инженерия\лабы\COCOMO\COCOMO\bin\Release\COCOMO.exe
+C:\Users\Admin\Desktop\Учебное\Программная инженерия\лабы\COCOMO\COCOMO\bin\Release\COCOMO.pdb
+C:\Users\Admin\Desktop\Учебное\Программная инженерия\лабы\COCOMO\COCOMO\obj\Release\COCOMO.About.resources
+C:\Users\Admin\Desktop\Учебное\Программная инженерия\лабы\COCOMO\COCOMO\obj\Release\COCOMO.Form1.resources
+C:\Users\Admin\Desktop\Учебное\Программная инженерия\лабы\COCOMO\COCOMO\obj\Release\COCOMO.Form2.resources
+C:\Users\Admin\Desktop\Учебное\Программная инженерия\лабы\COCOMO\COCOMO\obj\Release\COCOMO.Form3.resources
+C:\Users\Admin\Desktop\Учебное\Программная инженерия\лабы\COCOMO\COCOMO\obj\Release\COCOMO.Properties.Resources.resources
+C:\Users\Admin\Desktop\Учебное\Программная инженерия\лабы\COCOMO\COCOMO\obj\Release\COCOMO.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Учебное\Программная инженерия\лабы\COCOMO\COCOMO\obj\Release\COCOMO.exe
+C:\Users\Admin\Desktop\Учебное\Программная инженерия\лабы\COCOMO\COCOMO\obj\Release\COCOMO.pdb
